@@ -11,7 +11,7 @@ class Source:
         self.language = language
         self.country = country
 
-class Article:
+# class Article:
     '''
     Article class to define article objects
     '''
