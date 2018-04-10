@@ -27,7 +27,7 @@ Use the heroku platform to deploy it online while run it on localhost:5000 to vi
 
 ## Authors
 
-<!-- * Roseoketch -->
+* Roseoketch
 
 
 ## License
